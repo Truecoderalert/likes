@@ -1,0 +1,60 @@
+.network{background-color: black;
+color: white;
+height: 45px;
+text-decoration-thickness: 50px;
+}
+.yourfeed{
+color: black;
+text-align: center;
+
+
+}
+.ppic{
+border-style: solid;
+width: 250px;
+
+
+}
+.avater{
+color: blue;
+text-decoration: underline;
+
+}
+
+button{background-color: yellow;
+margin-left: 312px;
+margin-top: 0px;
+
+}
+.firstbox{border-style: solid;
+   
+width: 500px;
+margin-left:678px ;
+}
+
+
+.topbox{
+border-style: solid;
+   
+width: 500px;
+margin-left:678px ;
+
+}
+.midbox{
+border-style: solid;
+   
+width: 500px;
+margin-left:678px ;
+}
+.lastbox{
+    border-style: solid;
+   
+    width: 500px;
+    margin-left:678px ;
+
+
+
+
+
+
+}
